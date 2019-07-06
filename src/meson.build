@@ -4,6 +4,7 @@ executable(
     'Application.vala',
 
     'Widgets/Window.vala',
+    'Widgets/HeaderBar.vala',
 
 
     dependencies: [
